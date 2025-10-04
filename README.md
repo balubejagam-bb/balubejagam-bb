@@ -8,14 +8,13 @@
 ---
 
 # 👨‍⚕️ About Me
-
 I’m **Bejagam Balu Amareswar**, a **final-year CSE (Data Science) student** passionate about **AI, Healthcare, and Cloud Solutions**.  
 
-I specialize in **building impactful, real-world projects** in less than 3 hours and participating in **tech events and hackathons**. With **600+ GitHub commits**, I consider myself a **best-vibe coder**, driven by challenges and innovation.  
+I specialize in **building impactful, real-world projects** quickly, often delivering fully functional websites in **under 3 hours**. With **600+ GitHub commits**, I am a **best-vibe coder**, driven by innovation and challenges.  
 
 💬 Ask me about **AI/ML, Data Science, Full-Stack Development, and Cloud Computing**.  
 📫 Reach me at: [balubejagam@gmail.com](mailto:balubejagam@gmail.com)  
-⚡ Fun fact: I once built a full medical website in **under 3 hours** for a hackathon project.
+⚡ Fun fact: I once built a **full medical website for a hackathon in under 3 hours**.
 
 ---
 
@@ -40,24 +39,22 @@ I specialize in **building impactful, real-world projects** in less than 3 hours
 
 ## 🚀 Projects & Highlights
 
-Here are some of my **key projects** (click the links to visit):
+Here are some of my **live deployed projects** (click to visit):  
 
-- [Open-CV Parking System](https://github.com/balubejagam-bb/open-cv-parking) – Python project for automated parking detection  
-- [Chats with Docs in All Formats](https://github.com/balubejagam-bb/chats-with-docs-in-all-formats) – AI-powered document chatbot  
-- [Trolley Checkout SMS](https://github.com/balubejagam-bb/trolley-checkout-sms) – TypeScript project for automated checkout  
-- [Balu Portfolio](https://github.com/balubejagam-bb/balubejagam-portfolio) – Full-stack personal portfolio  
-- [MedicalBot](https://github.com/balubejagam-bb/medicalbot) – AI-powered medical assistant  
+- [**MediLearn Hub**](https://www.medilearn.tech) – End-to-end **medical learning platform** for students and professionals.  
+- [**FindMate AI**](https://findmate2.vercel.app) – AI-powered **lost-and-found office assistant**.  
+- [**MedicalBot**](https://bb-ai-nine.vercel.app) – **AI-driven medical assistant** with document and chat support.  
+- [**Balu Portfolio**](https://balu-bejagam.vercel.app) – Full-stack **personal portfolio website** showcasing my work.  
 
 **Highlights:**  
-- Pro-level coding skills  
-- Achievement: YOLO  
-- Built complex websites and tools **in less than 3 hours**  
-- Participated in **numerous hackathons and tech events**
+- **Pro-level coding skills** with ability to deliver full projects in **under 3 hours**  
+- **Winner of multiple hackathons and tech competitions**  
+- **600+ GitHub commits** demonstrating consistent real-world contributions  
+- Expertise in **AI/ML, Data Science, Full-Stack Development, and Cloud Computing**
 
 ---
 
 ## 🏆 Achievements & Badges
-
 ![AI/ML](https://img.shields.io/badge/AI/ML-FF6F61?style=for-the-badge&logo=brain&logoColor=white)  
 ![Hackathon Winner](https://img.shields.io/badge/1st%20Prize-Hackathon-00C853?style=for-the-badge&logo=award&logoColor=white)  
 ![Events & Competitions](https://img.shields.io/badge/Events-Participation-06B6D4?style=for-the-badge)  
@@ -66,13 +63,12 @@ Here are some of my **key projects** (click the links to visit):
 ---
 
 ## 📊 GitHub Stats
-
 ![Balu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balubejagam-bb&show_icons=true&hide_title=false&count_private=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balubejagam-bb&layout=compact&theme=radical)  
 
 ---
 
 ## 🔗 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balu-amareswar-bejagam-b31040312)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=vercel&logoColor=white)](https://balu-bejagam.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=vercel&logoColor=white)](https://balu-bejagam.vercel.app)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balubejagam@gmail.com)
